@@ -21,6 +21,8 @@
   "homepage": "https://github.com/adshidtadka/udemy-ts#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.157",
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
     "clean-webpack-plugin": "^3.0.0",
     "install": "^0.13.0",
     "ts-loader": "^8.0.0",
@@ -31,6 +33,8 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
